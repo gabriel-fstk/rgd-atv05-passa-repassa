@@ -139,7 +139,8 @@ Inclui data/hora e placar de ambos os jogadores.
 
 ## 👨‍💻 Autores
 
-📚 Projeto acadêmico IFRS - Redes de Computadores ? Prof. 👨‍🏫 Luciano V. Gonçalves
+📚 Projeto acadêmico IFRS - Redes de Computadores 
+👨‍🏫 Prof. Luciano V. Gonçalves
 
 🧑‍💻 Implementação por: [Gabriel G. C. Soares]
 
