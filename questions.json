@@ -1,0 +1,152 @@
+[
+    {
+        "question": "Qual a capital da França?",
+        "options": ["A) Madrid", "B) Paris", "C) Roma"],
+        "answer": "B"
+    },
+    {
+        "question": "Quantos dias tem um ano comum?",
+        "options": ["A) 365", "B) 360", "C) 366"],
+        "answer": "A"
+    },
+    {
+        "question": "Quem escreveu 'Dom Quixote'?",
+        "options": ["A) Shakespeare", "B) Machado de Assis", "C) Cervantes"],
+        "answer": "C"
+    },
+    {
+        "question": "Qual é o maior oceano do mundo?",
+        "options": ["A) Atlântico", "B) Índico", "C) Pacífico"],
+        "answer": "C"
+    },
+    {
+        "question": "Java é uma linguagem de...?",
+        "options": ["A) Programação", "B) Pintura", "C) Música"],
+        "answer": "A"
+    },
+    {
+        "question": "Quantos lados tem um quadrado?",
+        "options": ["A) 3", "B) 4", "C) 5"],
+        "answer": "B"
+    },
+    {
+        "question": "Em que continente está o Brasil?",
+        "options": ["A) América", "B) Europa", "C) África"],
+        "answer": "A"
+    },
+    {
+        "question": "Quem foi Albert Einstein?",
+        "options": ["A) Ator", "B) Cientista", "C) Jogador de futebol"],
+        "answer": "B"
+    },
+    {
+        "question": "Qual elemento químico tem o símbolo O?",
+        "options": ["A) Ouro", "B) Oxigênio", "C) Ósmio"],
+        "answer": "B"
+    },
+    {
+        "question": "Qual é o número PI com duas casas decimais?",
+        "options": ["A) 3,14", "B) 2,17", "C) 3,41"],
+        "answer": "A"
+    },
+    {
+        "question": "CSS é usado para...?",
+        "options": ["A) Estilizar sites", "B) Calcular impostos", "C) Editar vídeos"],
+        "answer": "A"
+    },
+    {
+        "question": "Quantos estados tem o Brasil?",
+        "options": ["A) 26", "B) 27", "C) 25"],
+        "answer": "B"
+    },
+    {
+        "question": "A que país pertence o Monte Fuji?",
+        "options": ["A) China", "B) Japão", "C) Coreia do Sul"],
+        "answer": "B"
+    },
+    {
+        "question": "Quem foi o primeiro homem a pisar na Lua?",
+        "options": ["A) Yuri Gagarin", "B) Neil Armstrong", "C) Buzz Aldrin"],
+        "answer": "B"
+    },
+    {
+        "question": "Python é uma linguagem de...?",
+        "options": ["A) Serpentes", "B) Programação", "C) Escrita"],
+        "answer": "B"
+    },
+    {
+        "question": "Qual é o maior país do mundo em extensão?",
+        "options": ["A) China", "B) Canadá", "C) Rússia"],
+        "answer": "C"
+    },
+    {
+        "question": "O que significa 'www'?",
+        "options": ["A) World Wide Web", "B) Web World Wide", "C) Web Wireless Way"],
+        "answer": "A"
+    },
+    {
+        "question": "Qual animal é conhecido como 'rei da selva'?",
+        "options": ["A) Tigre", "B) Leão", "C) Elefante"],
+        "answer": "B"
+    },
+    {
+        "question": "Quem pintou 'O Grito'?",
+        "options": ["A) Munch", "B) Monet", "C) Michelangelo"],
+        "answer": "A"
+    },
+    {
+        "question": "Qual é a moeda dos Estados Unidos?",
+        "options": ["A) Euro", "B) Dólar", "C) Libra"],
+        "answer": "B"
+    },
+    {
+        "question": "React é uma biblioteca de qual linguagem?",
+        "options": ["A) Python", "B) JavaScript", "C) Java"],
+        "answer": "B"
+    },
+    {
+        "question": "Em que ano terminou a Segunda Guerra Mundial?",
+        "options": ["A) 1945", "B) 1939", "C) 1950"],
+        "answer": "A"
+    },
+    {
+        "question": "Qual é a capital da Argentina?",
+        "options": ["A) Santiago", "B) Montevidéu", "C) Buenos Aires"],
+        "answer": "C"
+    },
+    {
+        "question": "Quantas patas tem uma aranha?",
+        "options": ["A) 6", "B) 8", "C) 10"],
+        "answer": "B"
+    },
+    {
+        "question": "O que significa CPU?",
+        "options": ["A) Central Processing Unit", "B) Control Panel Utility", "C) Core Power Unit"],
+        "answer": "A"
+    },
+    {
+        "question": "Qual é o menor planeta do sistema solar?",
+        "options": ["A) Terra", "B) Marte", "C) Mercúrio"],
+        "answer": "C"
+    },
+    {
+        "question": "Qual desses é um navegador de internet?",
+        "options": ["A) Windows", "B) Firefox", "C) Excel"],
+        "answer": "B"
+    },
+    {
+        "question": "Quem descobriu o Brasil?",
+        "options": ["A) Cristóvão Colombo", "B) Pedro Álvares Cabral", "C) Vasco da Gama"],
+        "answer": "B"
+    },
+    {
+        "question": "Qual o resultado de 10 × 10?",
+        "options": ["A) 100", "B) 10", "C) 1000"],
+        "answer": "A"
+    },
+    {
+        "question": "Qual é a principal fonte de energia solar?",
+        "options": ["A) Lua", "B) Sol", "C) Estrelas"],
+        "answer": "B"
+    }
+]

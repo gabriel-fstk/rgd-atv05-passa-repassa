@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <title>Passa ou Repassa</title>
+  <script defer src="script.js"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" />
+  <style>
+    body { margin:0; font-family:sans-serif; display:flex; flex-direction:column; height:100vh; }
+    #chat-box { flex:1; padding:20px; overflow-y:auto; background:#fff; }
+    .message { margin:10px 0; padding:10px; border-radius:8px; }
+    .server { background:#e1ecf4; }
+    .user { background:#c8e6c9; text-align:right; }
+    #input-area { display:flex; padding:10px; border-top:1px solid #ccc; background:#f9f9f9; }
+    #msg-input { flex:1; padding:10px; font-size:16px; border:1px solid #ccc; border-radius:6px; }
+    #send-btn { margin-left:10px; background:#4CAF50; color:white; padding:10px 16px; border:none; border-radius:6px; font-size:16px; cursor:pointer; }
+  </style>
+</head>
+<body>
+  <div id="chat-box"></div>
+  <div id="input-area">
+    <input type="text" id="msg-input" placeholder="Digite sua resposta...">
+    <button id="send-btn"><i class="fas fa-paper-plane"></i> Enviar</button>
+  </div>
+</body>
+</html>
